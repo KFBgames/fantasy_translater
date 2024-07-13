@@ -1,3 +1,4 @@
+document.title = "Сказочный переводчик";
 var alphabet = "абвгдеёжзийклмнопрстцфхцчшщъюйэюя";
 for (var i = 0; i < alphabet.length; i++) {
 	let button = document.createElement("button");
